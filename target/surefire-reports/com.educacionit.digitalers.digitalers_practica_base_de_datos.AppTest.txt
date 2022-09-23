@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.educacionit.digitalers.digitalers_practica_base_de_datos.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s - in com.educacionit.digitalers.digitalers_practica_base_de_datos.AppTest
